@@ -1,0 +1,4 @@
+Julia Tutorial Video: https://www.youtube.com/watch?v=sE67bP2PnOo&ab_channel=DerekBanas
+Julia Tutorial: http://www.newthinktank.com/2018/10/julia-tutorial/
+Garbage Collector Blog: https://wesselb.github.io/2020/11/23/julia-learning-circle-meeting-2.html
+Meeting Recording with JuliaLab mentor: https://drive.google.com/file/d/1QBmOscbM3ruhtKNGDftqU5JDUkelG55g/view?ts=6170908b
