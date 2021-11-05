@@ -1,6 +1,6 @@
-# CS263 Project: Julia GC Inspection for Multhithreaded Programs 
+## CS263 Project - Julia GC Inspection for Multhithreaded Programs 
 
-# Week 1: Literature review 
+### Week 1: Literature review 
 
 Julia Tutorial Video: https://www.youtube.com/watch?v=sE67bP2PnOo&ab_channel=DerekBanas
 <br />Julia Tutorial Set 1: http://www.newthinktank.com/2018/10/julia-tutorial/
@@ -18,6 +18,6 @@ https://discourse.julialang.org/t/the-state-of-dataframes-jl-h2o-benchmark/43081
 https://github.com/JuliaLang/julia/pull/41616
 https://goinbigdata.com/how-to-use-dtrace-on-mac-os-x/
 
-# Week 2: Troubleshooting with tool installation
+### Week 2: Troubleshooting with tool installation
 - VS Code and Julia Editor connection with Linux server.
 - Installing Linux VirtualBox/Docker to Mac.
