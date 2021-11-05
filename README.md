@@ -1,5 +1,4 @@
-# Julia GC Inspection Project
-Garbage Collector Inspector for Julia
+# CS263 Project: Julia GC Inspection for Multhithreaded Programs 
 
 # Week 1: Literature review 
 
