@@ -1,4 +1,4 @@
-# juliagc
+# Julia GC Inspection Project
 Garbage Collector Inspector for Julia
 
 # Week 1: Literature review 
