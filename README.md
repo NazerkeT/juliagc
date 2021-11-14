@@ -21,3 +21,9 @@ https://goinbigdata.com/how-to-use-dtrace-on-mac-os-x/
 ### Week 2: Troubleshooting with tool installation
 - VS Code and Julia Editor connection with Linux server.
 - Installing Linux VirtualBox/Docker to Mac.
+
+### Week 3: Troubleshooting with tools and initial simulations with `bpftrace`
+- Establishing working environment with UTM Virtual Box and Parallels VM.
+- Running a `julia_gc_alloc` uprobe on a test function following a tutorial with Julia's stable branch(v1.6.3):
+https://vchuravy.dev/notes/2021/08/bpftrace/#a_note_on_ustack
+- Troubleshooting `dtrace` tools and Julia's master branch installation(ongoing).
