@@ -29,4 +29,6 @@ https://vchuravy.dev/notes/2021/08/bpftrace/#a_note_on_ustack
 - Troubleshooting `dtrace` tools and Julia's master branch installation(ongoing).
 - Created a new issue on Julia's github repo about installation problems: https://github.com/JuliaLang/julia/issues/43071
 
-### Week 4: Fixing a issue with Julia master branch and running tutorials with `bpftrace`, `dtrace` again.
+### Week 4: From tutorial to a benchmark
+- Fixing a issue with Julia master branch and running tutorials with `bpftrace`, `dtrace` again.
+- Understanding a data science specific benchmark for future tests with julia https://h2oai.github.io/db-benchmark/
