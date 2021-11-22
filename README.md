@@ -28,3 +28,5 @@ https://goinbigdata.com/how-to-use-dtrace-on-mac-os-x/
 https://vchuravy.dev/notes/2021/08/bpftrace/#a_note_on_ustack
 - Troubleshooting `dtrace` tools and Julia's master branch installation(ongoing).
 - Created a new issue on Julia's github repo about installation problems: https://github.com/JuliaLang/julia/issues/43071
+
+### Week 4: Fixing a issue with Julia master branch and running tutorials with `bpftrace`, `dtrace` again.
